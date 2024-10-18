@@ -25,5 +25,9 @@ public class Main {
         System.out.println("powerfire.yearPublication = " + powerfire.getYearPublication());
 
 
+        System.out.println(new Author("Иван", "Иванов"));
+
+
+
     }
 }
